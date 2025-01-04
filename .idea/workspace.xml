@@ -5,8 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e068f6e-717b-47f2-ae79-d2f69d17a62e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/AbstractFactory.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Structural/Adapter.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Structural/Bridge.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Structural/Decorator.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractFactory.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Creational/AbstractFactory.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builder.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Creational/Builder.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Composite.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Structural/Composite.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Factory.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Creational/Factory.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prototype.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Creational/Prototype.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proxy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Structural/Proxy.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Singleton.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Creational/Singleton.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +56,12 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Structural" />
+      <recent name="$PROJECT_DIR$/Creational" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -68,7 +83,10 @@
       <workItem from="1735570621646" duration="3568000" />
       <workItem from="1735583058892" duration="3087000" />
       <workItem from="1735646298688" duration="10312000" />
-      <workItem from="1735739908728" duration="2447000" />
+      <workItem from="1735739908728" duration="3096000" />
+      <workItem from="1735823330085" duration="1284000" />
+      <workItem from="1735831525447" duration="5397000" />
+      <workItem from="1735843402644" duration="919000" />
     </task>
     <servers />
   </component>
